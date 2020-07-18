@@ -1,0 +1,8 @@
+public/lib/
+node_modules/
+app.min.js
+.idea
+package-lock.json
+yarn.lock
+upload
+.DS_Store
